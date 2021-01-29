@@ -1,0 +1,19 @@
+{
+    "editor.fontLigatures": null,
+    "go.testOnSave": true,
+    "go.lintOnSave": "package",
+    "go.formatTool": "goimports",
+    "go.testFlags": [
+        "-v"
+    ],
+    "go.autocompleteUnimportedPackages": true,
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+
+    },
+    "terminal.integrated.shell.windows": "C:\\Users\\JeanLuc\\Downloads\\cmder\\Cmder.exe",
+    "workbench.editorAssociations": []
+}
